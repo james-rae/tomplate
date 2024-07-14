@@ -1,5 +1,0 @@
-stuff that was removed from orig tsconfig.json
-
-"esModuleInterop": true,
-"noUnusedLocals": true,
-"noUnusedParameters": true,
