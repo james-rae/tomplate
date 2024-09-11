@@ -11,7 +11,8 @@ export default defineConfig({
                 entryFileNames: `assets/${packageJson.name}.js`,
                 assetFileNames: `assets/${packageJson.name}.css`
             }
-        }
+        },
+        sourcemap: true
     },
     resolve: {
         alias: [

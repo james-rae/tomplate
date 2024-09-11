@@ -51,6 +51,7 @@ index.html
 assets/
   package-name.js
   package-name.css
+  package-name.js.map
   possibly bundled chunks from any imported package.json items
 anything from public/
 ```
