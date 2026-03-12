@@ -2,11 +2,12 @@
 
 Just a basic starter template for a vanilla website :sunflower:
 
-- Typescript 5.5
+- Typescript 5.9
 - Vite builder
 - Internal pattern for circular references
 - Prettier formatting
 - Basic VSCode settings
+- [ES-Toolkit](https://es-toolkit.dev/) for helpful extras
 - No UI frameworks
 - No testing frameworks (just write fantastic code and you're all good eh!)
 
