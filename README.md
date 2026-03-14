@@ -3,9 +3,9 @@
 Just a basic starter template for a vanilla website :sunflower:
 
 - Typescript 5.9
-- Vite builder
+- Vite 8 builder
 - Internal pattern for circular references
-- Prettier formatting
+- Oxfmt formatting
 - Basic VSCode settings
 - [ES-Toolkit](https://es-toolkit.dev/) for helpful extras
 - No UI frameworks
