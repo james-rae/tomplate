@@ -14,10 +14,10 @@
         "es-toolkit": "~1.45.1"
     },
     "devDependencies": {
-        "@types/jsdom": "^21.1.7",
-        "oxfmt": "^0.40.0",
+        "@types/jsdom": "^28.0.1",
+        "oxfmt": "^0.42.0",
         "ts-node": "^10.9.2",
-        "typescript": "^5.9.3",
-        "vite": "^8.0.0"
+        "typescript": "^6.0.2",
+        "vite": "^8.0.3"
     }
 }

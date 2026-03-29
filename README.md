@@ -1,6 +1,6 @@
 # Tomplate
 
-Just a basic starter template for a vanilla website :sunflower:
+Just a basic starter template for a vanilla Typescript website :sunflower:
 
 - Typescript 5.9
 - Vite 8 builder
