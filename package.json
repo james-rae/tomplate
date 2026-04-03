@@ -15,8 +15,7 @@
     },
     "devDependencies": {
         "@types/jsdom": "^28.0.1",
-        "oxfmt": "^0.42.0",
-        "ts-node": "^10.9.2",
+        "oxfmt": "^0.43.0",
         "typescript": "^6.0.2",
         "vite": "^8.0.3"
     }
