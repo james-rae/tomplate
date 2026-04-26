@@ -8,12 +8,15 @@ Just a basic starter template for a vanilla Typescript website :sunflower:
 - Oxfmt formatting
 - Basic VSCode settings
 - [ES-Toolkit](https://es-toolkit.dev/) for helpful extras
+- Mild NPM package protections
+  - Install scripts won't run
+  - Three-day package cooldown
 - No UI frameworks
 - No testing frameworks (just write fantastic code and you're all good eh!)
 
 ## Setup
 
-Have Node installed. `v18` or higher preferred. `v16` will grouse a bit but appears to work.
+Have Node installed. `v24.15.0` or higher preferred. Earlier versions might throw errors due to the `min-release-age` setting.
 
 To install the dependencies at the versions they last knowingly worked at:
 
